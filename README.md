@@ -2,7 +2,7 @@
 This project is a challenge from dicoding called Bookself API
 
 # Installation
-You can use npm[https://nodejs.org/en/download] to install this project
+You can use [npm](https://nodejs.org/en/download) to install this project
 ```bash
 npm install
 ```
